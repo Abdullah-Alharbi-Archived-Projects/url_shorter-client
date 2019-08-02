@@ -1,6 +1,6 @@
 # Url Shorter Client
 
-**simple url shorter client in vue**
+**simple url shorter client in vue && tailwind**
 
 ### Interface
 
