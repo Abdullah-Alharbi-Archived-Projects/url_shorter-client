@@ -1,29 +1,7 @@
-# url_shorter-client
+# Url Shorter Client
 
-## Project setup
-```
-npm install
-```
+**simple url shorter client in vue**
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Interface
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![UI](https://i.imgur.com/poz7nOe.png)
