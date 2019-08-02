@@ -33,9 +33,6 @@ export default {
         longUrl
       });
       this.links = [...this.links, link];
-
-      localStorage.removeItem("links");
-      localStorage.setItem("links", JSON.stringify(this.links));
     }
   },
   async created() {
@@ -44,7 +41,6 @@ export default {
       data: { urls: links }
     } = await axios.get("http://localhost:8001/api/url/");
     this.links = [...links];
-    localStorage.setItem("links", JSON.stringify(this.links));
   }
 };
 </script>
