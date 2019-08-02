@@ -4,4 +4,4 @@
 
 ### Interface
 
-![UI](https://i.imgur.com/poz7nOe.png)
+![UI](https://i.imgur.com/ur6EGia.png)
